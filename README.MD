@@ -1,3 +1,4 @@
+
 ### To run
 
 ```bash
@@ -12,3 +13,5 @@ cd bun
 bun install
 bun run dev
 ```
+
+![Alt Text](charts_gif.gif)
